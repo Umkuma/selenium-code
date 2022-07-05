@@ -1,0 +1,12 @@
+pages\ConfirmationPage.class
+pages\LoginPage.class
+tests\CommonTestClass.class
+pages\SearchFlightPage.class
+tests\TestLogin.class
+pages\SelectFlightPage.class
+tests\TestbookFlight.class
+pages\BookFlightPage.class
+tests\TestSelectFlight.class
+pages\CommonPageClass.class
+tests\TestConfirmationPage.class
+tests\TestSearchFlight.class
